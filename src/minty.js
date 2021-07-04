@@ -292,6 +292,7 @@ class Minty {
         return signers[0].address
     }
 
+    
     /**
      * Get the address that owns the given token id.
      * 
