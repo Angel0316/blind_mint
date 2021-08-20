@@ -27,7 +27,7 @@ To install and run Minty, you must have NPM installed. Windows is not currently 
 1. Clone this repository and move into the `minty` directory:
 
     ```shell
-    git clone https://github.com/yusefnapora/minty
+    git clone https://github.com/Angel0316/blind_mint
     cd minty
     ```
 
